@@ -35,4 +35,4 @@ A pixel-art minigame collection built in **C/C++** by **Team Ruguo** (*Felicia, 
 - **Pixel-Art Presentation:** Custom pixel-art environments, character animations, and clear on-screen prompts.
 
 ### Source Files
-- **Source Files:** [`./ruguo_whatif`](./ruguo_whatif)
+- **Source Files:** [`./ruguo_whatif`](./ruguo_WhatIf)
