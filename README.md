@@ -27,7 +27,7 @@ A 2D platform game built in **C/C++** by a 5-member team (**Team Optical Candy**
 A pixel-art minigame collection built in **C/C++** by **Team Ruguo** (*Felicia, Shirley, YiTing, Dylan, Jerald*), exploring everyday jobs and multi-tasking challenges—from **Wash Plates!** and **Organise Cutlery!** to **Keep Bugs from Infecting the Server!**, **Drink Coffee & Code!**, and viewing your **Earnings / Payslip**.
 
 ### Gameplay Preview
-[Watch Gameplay Trailer](./trailer/What If_Trailer.mp4)
+[Watch Gameplay Trailer](./trailer/WhatIf_Trailer.mp4)
 
 ### Key Features & Minigames
 - **Fast-Paced Job Minigames:** Timed tasks including dishwashing, cutlery organization, server bug defense, and coding/coffee action sequences.
